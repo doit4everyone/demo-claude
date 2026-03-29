@@ -33,7 +33,7 @@ peut aujourd’hui être **pré‑construit en moins d’une heure**, sans rempl
 
 * **Stratégie de Prompting Itérative :** Le pack a été conçu à l'aide de **3 prompts distincts** (Architecture, Procédure Technique et Guide Utilisateur) pour garantir la profondeur et la précision de chaque livrable.
 * **Affinement par un Expert :** J'ai effectué **3 à 4 itérations manuelles**, spécifiquement sur la Procédure Technique, afin de m'assurer que les configurations M365 et Veeam soient 100 % exactes et prêtes pour le client.
-* **Temps de Production :** **~2 heures** de travail total, incluant le pilotage de l'IA, la validation technique et la mise en forme finale (une tâche qui prend habituellement plusieurs jours de rédaction manuelle).
+* **Temps de Production :** **~2 heures** de travail total, incluant le pilotage de l'IA, la validation technique et la mise en forme finale (une tâche qui prend habituellement **1 à 2 jours** de rédaction manuelle).
 * **L'Humain au Cœur du Processus :** L'IA a agi comme un architecte à haute vitesse, tandis que **l'ingénieur avant-vente** est resté responsable de la cohérence technique et de la validation finale des prix.
 
 👉 L'IA structure et calcule — **la responsabilité du chiffrage reste humaine**.
