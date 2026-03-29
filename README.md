@@ -29,13 +29,13 @@ Following the publication *“Something Big Is Happening”* by **Matt Shumer (F
 
 ## ⏱️ Method
 
-- Initial generation using **a single AI prompt**
-- Production time: **< 1 hour**
-- Deliverables **directly usable in pre-sales**
+    Iterative Prompting Strategy: The package was built using 3 distinct core prompts (Architecture, Technical Procedure, and User Guide) to ensure depth and precision for each deliverable.
 
-⚠️ **Important note on pricing accuracy**  
-To be **100% accurate on costs**, the pre-sales engineer must provide the AI with  
-**an Excel price list** (licenses, hardware, services) and include it in the prompt.
+    Expert Refinement: I performed 3 to 4 manual iterations specifically on the Technical Procedure to ensure the M365 and Veeam configurations were 100% accurate and client-ready.
+
+    Production Time: ~2 hours of total work, including AI steering, technical validation, and final formatting (a task that usually takes several days of manual drafting).
+
+    Human-in-the-loop: The AI acted as a high-speed architect, while the Pre-Sales Engineer remained responsible for technical consistency and final pricing validation.
 
 👉 AI structures and calculates — **pricing responsibility remains human**.
 
