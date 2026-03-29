@@ -31,15 +31,12 @@ peut aujourd’hui être **pré‑construit en moins d’une heure**, sans rempl
 
 ## ⏱️ Méthode
 
-- Génération initiale via **un seul prompt IA**
-- Temps de production : **< 1 heure**
-- Livrables **directement exploitables en pré‑vente**
+* **Stratégie de Prompting Itérative :** Le pack a été conçu à l'aide de **3 prompts distincts** (Architecture, Procédure Technique et Guide Utilisateur) pour garantir la profondeur et la précision de chaque livrable.
+* **Affinement par un Expert :** J'ai effectué **3 à 4 itérations manuelles**, spécifiquement sur la Procédure Technique, afin de m'assurer que les configurations M365 et Veeam soient 100 % exactes et prêtes pour le client.
+* **Temps de Production :** **~2 heures** de travail total, incluant le pilotage de l'IA, la validation technique et la mise en forme finale (une tâche qui prend habituellement plusieurs jours de rédaction manuelle).
+* **L'Humain au Cœur du Processus :** L'IA a agi comme un architecte à haute vitesse, tandis que **l'ingénieur avant-vente** est resté responsable de la cohérence technique et de la validation finale des prix.
 
-⚠️ **Précision importante sur les coûts**  
-Pour être **100 % exact**, l’ingénieur avant‑vente doit fournir à l’IA  
-**une feuille Excel contenant les prix de vente** (licences, matériel, services).
-
-👉 L’IA structure et calcule — **la responsabilité des prix reste humaine**.
+👉 L'IA structure et calcule — **la responsabilité du chiffrage reste humaine**.
 
 ---
 
