@@ -36,8 +36,6 @@ Following the publication *“Something Big Is Happening”* by **Matt Shumer (F
 
 👉 AI structures and calculates — **pricing responsibility remains human**.
 
-👉 AI structures and calculates — **pricing responsibility remains human**.
-
 ---
 
 ## ✅ What this demonstrates
